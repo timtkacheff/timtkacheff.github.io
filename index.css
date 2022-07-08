@@ -1,18 +1,42 @@
 .header {
-    margin-top: 5rem;
+    margin-top: 2rem;
     margin-bottom: 2rem;
 }
 .links {
     margin-top: 5rem;
     margin-bottom: 2rem;
+    text-align: right;
 }
 
 .header h1 {
     font-weight: 800;
 }
-
+#links {
+    margin-top: 1rem;
+}
 #specification {
     font-size: x-large;
     font-style: italic;
     margin-bottom: 1rem;
+}
+
+.projects-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.skills-header {
+    margin-top: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.certificates-header {
+    margin-top: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.footer {
+    font-family: monospace;
+    text-align: center;
+    color: gray;
 }
